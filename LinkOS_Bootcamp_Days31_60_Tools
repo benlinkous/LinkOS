@@ -1,0 +1,47 @@
+Tool,Type,Purpose
+journalctl,Linux Command,Log analysis and filtering (CySA+)
+auditctl,Linux Command,Track user actions and configure auditing
+fail2ban,Program,Block brute-force IPs via log-based triggers
+lynis,Program,System audit and vulnerability assessment
+rsyslog,Program,Log collection and alerting
+logwatch,Program,Log summary and system activity reports
+suricata,Program,Network-based IDS/IPS (packet analysis)
+Security Onion,Platform,Threat correlation and detection suite
+Wazuh,Platform,Host-based threat detection and SIEM agent
+OCSP/CRL,Concept/Protocol,Certificate revocation tracking
+MITRE ATT&CK,Framework,TTP mapping and threat analysis
+nmcli,Linux Command,NetworkManager CLI for interface control
+nmtui,Linux Command,Text UI for NetworkManager
+netstat,Linux Command,Display network sockets and routing
+ss,Linux Command,Socket statistics (replacement for netstat)
+dig,Linux Command,DNS lookup and diagnostics
+traceroute,Linux Command,Trace path between hosts
+tcpdump,Linux Command,Packet capture utility
+iptables,Linux Command,Firewall rule management
+ufw,Program,Uncomplicated firewall frontend to iptables
+nmap,Program,Port scanning and service enumeration
+enum4linux,Program,Enumerate Windows/Linux SMB shares
+msfconsole,Program,Metasploit Framework console
+nikto,Program,Web vulnerability scanner
+dirb,Program,Directory brute-forcing
+ffuf,Program,Web fuzzing and parameter testing
+sqlmap,Program,Automated SQL injection detection/exploitation
+searchsploit,Program,Search Exploit-DB for vulnerabilities
+reverse shell,Script Concept,Remote command execution foothold
+fdisk,Linux Command,Partition a disk manually
+parted,Linux Command,Partitioning for larger/GPT disks
+mkfs,Linux Command,Create new filesystem on a partition
+mount,Linux Command,Mount filesystem to directory
+df,Linux Command,Disk usage (filesystem level)
+du,Linux Command,Disk usage (directory/file level)
+logrotate,Program,Manage log file rotation automatically
+cron,Linux Command,Schedule recurring tasks
+at,Linux Command,Schedule one-time tasks
+tar,Linux Command,Archive files
+rsync,Linux Command,Efficient file sync and backups
+scp,Linux Command,Secure copy across SSH
+chmod,Linux Command,Change file permissions
+chown,Linux Command,Change file ownership
+setfacl,Linux Command,Advanced access control lists
+getenforce,Linux Command,View SELinux enforcement mode
+audit2why,Linux Command,Analyze SELinux denials

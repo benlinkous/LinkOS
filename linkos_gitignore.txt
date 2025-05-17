@@ -1,0 +1,21 @@
+.DS_Store
+
+# Ignore Obsidian workspace/settings if used inside LinkOS for any reason
+.obsidian/
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-vault.json
+.obsidian/plugins/
+.obsidian/cache
+
+# Editor/OS junk
+*.swp
+*.tmp
+*~
+Thumbs.db
+
+# Logs or temp output files
+*.log
+
+# Avoid uploading these to GitHub unnecessarily
+*.bak
